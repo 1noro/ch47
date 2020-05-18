@@ -1,0 +1,40 @@
+
+@font-face {
+    font-family: 'PTSerif Regular';
+    src:    url('../font/eot/PTSerif-Regular.eot'); /* IE9 Compat Modes */
+    src:    url('../font/eot/PTSerif-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+            url('../font/woff2/PTSerif-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+            url('../font/woff/PTSerif-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+            url('../font/ttf/PTSerif-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+            url('../font/svg/PTSerif-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'PTSerif Bold';
+    src:    url('../font/eot/PTSerif-Bold.eot'); /* IE9 Compat Modes */
+    src:    url('../font/eot/PTSerif-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+            url('../font/woff2/PTSerif-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+            url('../font/woff/PTSerif-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+            url('../font/ttf/PTSerif-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+            url('../font/svg/PTSerif-Bold.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'FA Brands';
+    src:    url('../font/eot/fa-brands-400.eot'); /* IE9 Compat Modes */
+    src:    url('../font/eot/fa-brands-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+            url('../font/woff2/fa-brands-400.woff2') format('woff2'), /* Super Modern Browsers */
+            url('../font/woff/fa-brands-400.woff') format('woff'), /* Pretty Modern Browsers */
+            url('../font/ttf/fa-brands-400.ttf')  format('truetype'), /* Safari, Android, iOS */
+            url('../font/svg/fa-brands-400.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'FA Solid';
+    src:    url('../font/eot/fa-solid-900.eot'); /* IE9 Compat Modes */
+    src:    url('../font/eot/fa-solid-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+            url('../font/woff2/fa-solid-900.woff2') format('woff2'), /* Super Modern Browsers */
+            url('../font/woff/fa-solid-900.woff') format('woff'), /* Pretty Modern Browsers */
+            url('../font/ttf/fa-solid-900.ttf')  format('truetype'), /* Safari, Android, iOS */
+            url('../font/svg/fa-solid-900.svg#svgFontName') format('svg'); /* Legacy iOS */
+}

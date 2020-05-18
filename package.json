@@ -1,0 +1,26 @@
+{
+    "name": "ch47",
+    "version": "0.0.1",
+    "description": "Intento de chat para aprender a usar Electron.",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/1noro/ch47.git"
+    },
+    "keywords": [
+        "chat",
+        "electron"
+    ],
+    "author": "1noro",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/1noro/ch47/issues"
+    },
+    "homepage": "https://github.com/1noro/ch47#readme",
+    "devDependencies": {
+        "electron": "^8.3.0"
+    }
+}
