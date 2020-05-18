@@ -59,3 +59,8 @@ app.on('activate', () => {
 
 // En este archivo puede incluir el resto del código del proceso principal específico
 // de su aplicación. También puedes ponerlos en archivos separados y requerirlos aquí.
+
+
+// ----------------------------------------------------------------------------
+// var net = require('net');
+// console.log("hola");
