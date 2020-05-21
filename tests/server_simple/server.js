@@ -55,7 +55,7 @@ server.on('connection', function(socket) {
     });
 
 
-    socket.on('data',function(data){
+    socket.on('data', function(data){
         var bread = socket.bytesRead;
         var bwrite = socket.bytesWritten;
         console.log('Bytes read : ' + bread);
@@ -146,4 +146,4 @@ if(islistening){
 
 setTimeout(function(){
     server.close();
-},5000000);
+}, 5000000);
